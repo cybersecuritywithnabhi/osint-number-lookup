@@ -19,7 +19,7 @@ except Exception:
     sys.exit(1)
 
 # === CONFIG ===
-API_BASE = "API KE LIYE TELEGRAM PAR MESSAGE KARE TG I'D= @cybersecurity_with_nabhi"
+API_BASE = "https://all-psi-two.vercel.app/api/search?type=mobile&term="
 REQUEST_TIMEOUT = 20
 VERIFY_SSL = False
 GEN_SECONDS = 3
